@@ -1,8 +1,6 @@
 import { useEffect, useRef } from "react";
 import createGlobe from "cobe";
 
-import "./App.css";
-
 function App() {
   const canvasRef = useRef();
 
