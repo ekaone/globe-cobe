@@ -1,7 +1,6 @@
 import { useEffect, useRef } from "react";
 import createGlobe from "cobe";
 
-import reactLogo from "./assets/react.svg";
 import "./App.css";
 
 function App() {
