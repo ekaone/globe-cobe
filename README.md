@@ -1,1 +1,1 @@
-https://cobe.vercel.app/
+https://fabulous-pika-2774a3.netlify.app/
